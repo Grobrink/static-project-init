@@ -1,0 +1,1 @@
+npm install gulp gulp-minify-html gulp-jshint gulp-stylus kouto-swiss jeet gulp-concat gulp-uglify gulp-rename gulp-livereload gulp-image-optimization --save-dev

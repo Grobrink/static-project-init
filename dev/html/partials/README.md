@@ -1,2 +1,2 @@
 # /html/partials
-Keep html partial elements here
+Keep html partial elements here.
